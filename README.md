@@ -7,6 +7,6 @@
 
 ![Latino Populations in the Four States](MDSTpics/Latpopin4.png)
 
-#These four states are the four states with the highest Latino populations in the US. 
+# These four states are the four states with the highest Latino populations in the US. 
 
 ![Latino Populations in All States](MDSTpics/LatPopAll.png)
