@@ -1,5 +1,5 @@
-# Briza-Election-Analysis
-### My name is Briza Tayagua-Delgado!
+### Election-Analysis
+# Hello, my name is Briza Tayagua-Delgado!
 
 # **Research Question**: What environmental factors affect how Latinos voted in the 2020 election?
 
@@ -28,3 +28,14 @@
 
 
 Two of these states had a republican result in the 2020 election while the other two had a democrat result in the 2020 election. So, what environmental factors affect how Latinos vote and in turn affect the result of the elections? 
+
+## Environmental Factor One: Income Per Capita
+# What is income per capita? 
+# Income per capita is a way of measuring the average income per person in a given nation. 
+
+![Average Income Per Capita Per County](https://github.com/user-attachments/assets/a80bff44-9e6c-4fbf-a00b-c43d3c269a1b)
+
+# We can see that in Texas and Florida have similar average income's that are lower to the average incomes in New York and California. This could be an environmental factor that affects how Latinos vote in respective states. Although this is possible, it is important to note that this could also be due to the fact that California and New York have higher cost of living than Florida and Texas. 
+
+# According to insure.com/cost-of-living-by-state.html , California had an average cost of living index of 141.3, New York: 133.34, Texas: 93.8, Florida: 109.35. 
+(In this context, the index of 100 is the national average cost of living)
