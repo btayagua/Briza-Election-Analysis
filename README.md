@@ -20,6 +20,6 @@
 
 ![Latino Distribution in New York](https://github.com/user-attachments/assets/6ba70b6c-300f-4cc9-89dc-ff65110662e6)
 
-![Latino Distribution in Florida](<img width="424" alt="HisDisFlo" src="https://github.com/user-attachments/assets/d581fb4b-6606-4b0d-b2a7-750d384501d0" />)
+![Latino Distribution in Florida](https://github.com/user-attachments/assets/d581fb4b-6606-4b0d-b2a7-750d384501d0)
 
 Two of these states had a republican result in the 2016 election while the other two had a democrat result in the 2016 election. So, what environmental factors affect how Latinos vote and in turn affect the result. 
