@@ -22,4 +22,9 @@
 
 ![Latino Distribution in Florida](https://github.com/user-attachments/assets/d581fb4b-6606-4b0d-b2a7-750d384501d0)
 
-Two of these states had a republican result in the 2016 election while the other two had a democrat result in the 2016 election. So, what environmental factors affect how Latinos vote and in turn affect the result. 
+# Latinos made up 11.6% of the voters for the 2016 election, making their impact significant. 
+
+![Latino Eligible Voters](https://github.com/user-attachments/assets/631f20fd-0f9c-4a23-935b-3f05fce865af)
+
+
+Two of these states had a republican result in the 2016 election while the other two had a democrat result in the 2016 election. So, what environmental factors affect how Latinos vote and in turn affect the result of the elections? 
