@@ -8,10 +8,17 @@
 ![Latino Populations in the Four States](MDSTpics/Latpopin4.png)
 
 # These four states are the four states with the highest Latino populations in the US. 
+
 ![Latino Populations in All States](MDSTpics/LatPopAll.png)
+
 # We also know that the Latino population makes up a significant portion of the total population because of how it compares to the average populations of white people in each county. 
+
 ![Latino Distribution in California](MDSTpics/HisDisCal.png)
+
 ![Latino Distribution in Texas](MDSTpics/HisDisTex.png)
+
 ![Latino Distribution in New York](MDSTpics/HisDisNew.png)
+
 ![Latino Distribution in Florida](MDSTpics/HisDisFlo.png)
+
 Two of these states had a republican result in the 2020 election while the other two had a democrat result in the 2020 election. So, what environmental factors affect how Latinos vote and in turn affect the result. 
