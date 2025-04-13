@@ -9,7 +9,7 @@
 
 # These four states are the four states with the highest Latino populations in the US. 
 
-![Latino Populations in All States](MDSTpics/LatPopAll.png)
+![Latino Populations in All States](LatPopAll.png)
 
 # We also know that the Latino population makes up a significant portion of the total population because of how it compares to the average populations of white people in each county. 
 
