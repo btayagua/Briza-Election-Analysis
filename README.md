@@ -5,7 +5,7 @@
 
 # I investigated this by looking at four different states with high Latino Populations. These four states are: Texas, California, Florida, and New York. 
 
-![Latino Populations in the Four States](MDSTpics/Latpopin4.png)
+![Latino Populations in the Four States](<img width="642" alt="Latpopin4" src="https://github.com/user-attachments/assets/8606d20d-d3b7-48e5-8a09-076b796f8ffa" />)
 
 # These four states are the four states with the highest Latino populations in the US. 
 
