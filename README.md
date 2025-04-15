@@ -47,5 +47,12 @@
 
 ![Average Poverty Percentage Per County](https://github.com/user-attachments/assets/3a78a7b1-af67-4ec7-bc0e-97d6e62e51f1)
 
-## Florida and Texas have on average higher poverty percentage than New York and California, this is expected since those states have a lower income per capita but we see similarites between the states that had a Republican result versus a Democrat result.
+## Florida and Texas have on average higher poverty percentage than New York and California, this is expected since those states have a lower income per capita but we see similarites between the states that had a Republican result versus a Democrat result. Regardless, this could be an environmental factor that affects how Latino's voted in the 2020 election.
+
+# Environmental Factor Three: Unemployment
+### Unemployment is measured per county by calculating what percentage of the elegible population is unemployed. 
+
+![Income Per Capita vs. Unemployment](https://github.com/user-attachments/assets/a2f9270b-f425-40aa-9a7a-a4884620c45c)
+
+
 
