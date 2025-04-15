@@ -37,5 +37,15 @@ Two of these states had a republican result in the 2020 election while the other
 
 # We can see that in Texas and Florida have similar average income's that are lower to the average incomes in New York and California. This could be an environmental factor that affects how Latinos vote in respective states. Although this is possible, it is important to note that this could also be due to the fact that California and New York have higher cost of living than Florida and Texas. 
 
-# According to insure.com/cost-of-living-by-state.html , California had an average cost of living index of 141.3, New York: 133.34, Texas: 93.8, Florida: 109.35. 
+# According to insure.com/cost-of-living-by-state.html, California had an average cost of living index of 141.3, New York: 133.34, Texas: 93.8, Florida: 109.35. 
 (In this context, the index of 100 is the national average cost of living)
+# We can see that overall California and New York have a higher cost of living which could impact their income per capita.
+
+## Environmental Factor Two: Poverty Percentage
+# What is poverty percentage?
+# Poverty percentage is the amount of the population who's income falls below a certain threshold that is considered the "poverty line."
+
+![Average Poverty Percentage Per County](https://github.com/user-attachments/assets/3a78a7b1-af67-4ec7-bc0e-97d6e62e51f1)
+
+# Florida and Texas have on average higher poverty percentage than New York and California, this is expected since those states have a higher income per capita but we see similarites between the states that had a Republican result versus a Democrat result.
+
