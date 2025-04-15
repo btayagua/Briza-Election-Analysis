@@ -22,7 +22,7 @@
 
 ![Latino Distribution in Florida](https://github.com/user-attachments/assets/d581fb4b-6606-4b0d-b2a7-750d384501d0)
 
-# Latinos made up 11.6% of the voters for the 2020 election, making their impact significant. 
+# Latinos made up 13.6% of the voters for the 2020 election, making their impact significant. 
 
 ![Latino Eligible Voters](https://github.com/user-attachments/assets/631f20fd-0f9c-4a23-935b-3f05fce865af)
 
@@ -47,5 +47,5 @@ Two of these states had a republican result in the 2020 election while the other
 
 ![Average Poverty Percentage Per County](https://github.com/user-attachments/assets/3a78a7b1-af67-4ec7-bc0e-97d6e62e51f1)
 
-# Florida and Texas have on average higher poverty percentage than New York and California, this is expected since those states have a higher income per capita but we see similarites between the states that had a Republican result versus a Democrat result.
+# Florida and Texas have on average higher poverty percentage than New York and California, this is expected since those states have a lower income per capita but we see similarites between the states that had a Republican result versus a Democrat result.
 
