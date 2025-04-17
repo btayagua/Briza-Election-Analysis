@@ -25,7 +25,7 @@
 ### Latinos made up 13.6% of the voters for the 2020 election, making their impact significant. 
 
 ![Latino Eligible Voters](https://github.com/user-attachments/assets/631f20fd-0f9c-4a23-935b-3f05fce865af)
-
+https://www.pewresearch.org/short-reads/2024/01/10/key-facts-about-hispanic-eligible-voters-in-2024/ 
 
 ### Two of these states had a republican result in the 2020 election while the other two had a democrat result in the 2020 election. So, what environmental factors affect how Latinos vote and in turn affect the result of the elections? 
 
@@ -47,7 +47,7 @@
 
 ![Average Poverty Percentage Per County](https://github.com/user-attachments/assets/3a78a7b1-af67-4ec7-bc0e-97d6e62e51f1)
 
-## Florida and Texas have on average higher poverty percentage than New York and California, this is expected since those states have a lower income per capita but we see similarites between the states that had a Republican result versus a Democrat result. Regardless, this could be an environmental factor that affects how Latino's voted in the 2020 election.
+### Florida and Texas have on average higher poverty percentage than New York and California, this is expected since those states have a lower income per capita but we see similarites between the states that had a Republican result versus a Democrat result. Regardless, this could be an environmental factor that affects how Latino's voted in the 2020 election.
 
 # Environmental Factor Three: Unemployment
 ### Unemployment is measured per county by calculating what percentage of the elegible population is unemployed. 
