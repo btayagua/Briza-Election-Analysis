@@ -25,6 +25,7 @@
 ### Latinos made up 13.6% of the voters for the 2020 election, making their impact significant. 
 
 ![Latino Eligible Voters](https://github.com/user-attachments/assets/631f20fd-0f9c-4a23-935b-3f05fce865af)
+
 https://www.pewresearch.org/short-reads/2024/01/10/key-facts-about-hispanic-eligible-voters-in-2024/ 
 
 ### Two of these states had a republican result in the 2020 election while the other two had a democrat result in the 2020 election. So, what environmental factors affect how Latinos vote and in turn affect the result of the elections? 
