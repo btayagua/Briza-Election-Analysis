@@ -3,7 +3,7 @@
 
 # **Research Question**: What environmental factors affect how Latinos voted in the 2020 election?
 
-### I investigated this by looking at four different states with high Latino Populations. These four states are: Texas, California, Florida, and New York. 
+### I investigated this by looking at four different states with high Latino Populations in census data. These four states are: Texas, California, Florida, and New York. 
 
 ![Latino Populations in the Four States](https://github.com/user-attachments/assets/8606d20d-d3b7-48e5-8a09-076b796f8ffa)
 
@@ -55,9 +55,16 @@ https://www.pewresearch.org/short-reads/2024/01/10/key-facts-about-hispanic-elig
 
 ![Average Unemployment per County](https://github.com/user-attachments/assets/55fe104c-bdab-4fdc-abdc-d05dcbcc9622)
 
-### The blue states, California and New York, have higher percentages of unemployment on average per county compared to the red states, Texas and Florida.
+### The blue states, California and New York, have higher percentages of unemployment on average per county compared to the red states, Texas and Florida. Having higher percentages of unemployment can be 
 
 ![Income Per Capita vs. Unemployment](https://github.com/user-attachments/assets/a2f9270b-f425-40aa-9a7a-a4884620c45c)
 
-### We see that there is a correlation between Income Per Capita and Unemployment, as unemployment increases, the income per capita decreases. This does not align with the data that shows that California and New York have higher Income Per Capitas on average that Texas and Florida yet have
+### We see that there is a correlation between Income Per Capita and Unemployment, as unemployment increases, the income per capita decreases. This does not align with the data that shows that California and New York have higher Income Per Capitas on average than Texas and Florida yet they also have higher percentages of unemployment than Texas and Florida. A possible reason for this could be due to the fact that although in states like California and New York there is a higher income there could be a bigger percentage of people making very large amount of money that could skew the income per capita. 
+
+# Conclusion 
+### Possible factors of how Latino's voted in the 2020 presidential election are, income per capita, poverty, and unemployment. All these factors are very interconnected. Ultimately while there could be significance in the difference of these factors in red and blue states, there are also a lot of different factors that affect how Latino's vote that cannot be represented quantatively, an example of this could be the differing nationalities that are represented as Latinos. There are very many nationalities that are considered Latinos and the cultures and traditions can differ affecting their beliefs. All these states have differing percentages of Latinos from different backgrounds.
+
+### Additionally, it is important to note that a constraint in this research was that the data I used was census data. Census data can be very broad and leaves more details to be desired. 
+
+
 
