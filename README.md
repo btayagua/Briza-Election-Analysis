@@ -12,7 +12,7 @@
 ![Latino Populations in All States](https://github.com/user-attachments/assets/3522256b-5630-4ff1-a2c7-aa86767611e1)
 
 
-### We also know that the Latino population makes up a significant portion of the total population because of how it compares to the average populations of white people in each county. 
+### We also know that the Latino population makes up a significant portion of the total population because of how it compares to the average populations of white people in each county. This makes sense since porportionally California and Texas are larger states. 
 
 ![Latino Distribution in California](https://github.com/user-attachments/assets/a53a4a94-07a3-4c94-b72d-c699ad45938c)
 
@@ -53,7 +53,11 @@ https://www.pewresearch.org/short-reads/2024/01/10/key-facts-about-hispanic-elig
 # Environmental Factor Three: Unemployment
 ### Unemployment is measured per county by calculating what percentage of the elegible population is unemployed. 
 
+![Average Unemployment per County](https://github.com/user-attachments/assets/55fe104c-bdab-4fdc-abdc-d05dcbcc9622)
+
+### The blue states, California and New York, have higher percentages of unemployment on average per county compared to the red states, Texas and Florida.
+
 ![Income Per Capita vs. Unemployment](https://github.com/user-attachments/assets/a2f9270b-f425-40aa-9a7a-a4884620c45c)
 
-
+### We see that there is a correlation between Income Per Capita and Unemployment, as unemployment increases, the income per capita decreases. This does not align with the data that shows that California and New York have higher Income Per Capitas on average that Texas and Florida yet have
 
